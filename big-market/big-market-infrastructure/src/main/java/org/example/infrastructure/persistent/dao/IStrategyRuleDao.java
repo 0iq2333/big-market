@@ -10,5 +10,7 @@ import java.util.List;
 public interface IStrategyRuleDao {
     List<StrategyRule> queryStrategyRuleList();
     StrategyRule queryStrategyRule(StrategyRule strategyRuleReq);
+
+    String queryStrategyRuleValue(StrategyRule strategyRule);
 //    StrategyRule queryStrategyRule(Long strategyId);
 }
