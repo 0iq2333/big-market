@@ -22,18 +22,11 @@
         from strategy_award
         limit 10
     </select>
-<!--    <insert id="insert" parameterType="org.example.infrastructure.persistent.po.A">-->
-<!--        INSERT INTO table(a,b,c) VALUES(#{a}, #{b}, #{c})-->
-<!--    </insert>-->
+    <select id="queryStrategyAwardListByStrategyId" parameterType="java.lang.Long" resultMap="dataMap">
+        select strategy_id, award_id, award_count, award_count_surplus, award_rate
+        from strategy_award
+        where strategy_id = #{strategyId}
+    </select>
 
-<!--    <update id="update" parameterType="org.example.infrastructure.persistent.po.A">-->
-<!--        UPDATE table SET a = #{a} WHERE b = #{b}-->
-<!--    </update>-->
-
-<!--    <select id="queryEmployeeByEmployNumber" parameterType="java.lang.String" resultMap="CaseMap">-->
-<!--        SELECT a, b, c-->
-<!--        FROM table-->
-<!--        WHERE a = #{a}-->
-<!--    </select>-->
 
 </mapper>

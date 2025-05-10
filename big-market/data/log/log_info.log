@@ -21,3 +21,36 @@
 25-05-09.20:26:57.009 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8091"]
 25-05-09.20:26:57.031 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8091 (http) with context path ''
 25-05-09.20:26:57.042 [main            ] INFO  Application            - Started Application in 2.86 seconds (JVM running for 4.142)
+25-05-09.20:26:54.998 [main            ] INFO  Application            - Starting Application using Java 1.8.0_202 on DESKTOP-FN17FCR with PID 15004 (E:\Java_Study\big-market\big-market\big-market-app\target\classes started by zhongyi in E:\Java_Study\big-market\big-market)
+25-05-09.20:26:55.001 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+25-05-09.20:26:56.259 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8091 (http)
+25-05-09.20:26:56.266 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8091"]
+25-05-09.20:26:56.267 [main            ] INFO  StandardService        - Starting service [Tomcat]
+25-05-09.20:26:56.267 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+25-05-09.20:26:56.405 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+25-05-09.20:26:56.405 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1347 ms
+25-05-09.20:26:57.009 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8091"]
+25-05-09.20:26:57.031 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8091 (http) with context path ''
+25-05-09.20:26:57.042 [main            ] INFO  Application            - Started Application in 2.86 seconds (JVM running for 4.142)
+25-05-09.20:26:54.998 [main            ] INFO  Application            - Starting Application using Java 1.8.0_202 on DESKTOP-FN17FCR with PID 15004 (E:\Java_Study\big-market\big-market\big-market-app\target\classes started by zhongyi in E:\Java_Study\big-market\big-market)
+25-05-09.20:26:55.001 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+25-05-09.20:26:56.259 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8091 (http)
+25-05-09.20:26:56.266 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8091"]
+25-05-09.20:26:56.267 [main            ] INFO  StandardService        - Starting service [Tomcat]
+25-05-09.20:26:56.267 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+25-05-09.20:26:56.405 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+25-05-09.20:26:56.405 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1347 ms
+25-05-09.20:26:57.009 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8091"]
+25-05-09.20:26:57.031 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8091 (http) with context path ''
+25-05-09.20:26:57.042 [main            ] INFO  Application            - Started Application in 2.86 seconds (JVM running for 4.142)
+25-05-09.20:26:54.998 [main            ] INFO  Application            - Starting Application using Java 1.8.0_202 on DESKTOP-FN17FCR with PID 15004 (E:\Java_Study\big-market\big-market\big-market-app\target\classes started by zhongyi in E:\Java_Study\big-market\big-market)
+25-05-09.20:26:55.001 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+25-05-09.20:26:56.259 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8091 (http)
+25-05-09.20:26:56.266 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8091"]
+25-05-09.20:26:56.267 [main            ] INFO  StandardService        - Starting service [Tomcat]
+25-05-09.20:26:56.267 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+25-05-09.20:26:56.405 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+25-05-09.20:26:56.405 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1347 ms
+25-05-09.20:26:57.009 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8091"]
+25-05-09.20:26:57.031 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8091 (http) with context path ''
+25-05-09.20:26:57.042 [main            ] INFO  Application            - Started Application in 2.86 seconds (JVM running for 4.142)
